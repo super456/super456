@@ -2,8 +2,9 @@
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=super456.super456)](https://github.com/super456)
 
-- 🔭 I’m currently working in Shenzhen, China
-- 🌱 I’m currently learning Vue/React/JavaScript/TypeScript
+- 💼 I’m currently working in Shenzhen, China
+- 👨🏻‍💻 I’m currently learning Vue/React/JavaScript/TypeScript
+- 👏🏻 Welcome to [my blog](https://super456.github.io/) and look forward to communicating with you
 
 **Languages:**
 
